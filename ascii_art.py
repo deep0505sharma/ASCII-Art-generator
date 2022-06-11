@@ -60,4 +60,8 @@ if bg == "white":
 elif bg == "black":
     cropped_image = out_image.getbbox()
 
+
 # Saving the new Image
+out_image = out_image.crop(cropped_image)
+out_image.save("./data/output1.jpg")
+
