@@ -9,3 +9,13 @@ The editor for ASCII-graphics, combining a graphical editor and an image to text
 OpenCv, PIL,NumPy are some of the libraries I have used to write my code.
 Prerequisites:
 Basics of Image Processing and efficient in Python language
+
+
+
+#Resources I have used
+https://www.geeksforgeeks.org/python-pillow-blur-an-image/
+https://towardsdatascience.com/generate-pencil-sketch-from-photo-in-python-7c56802d8acb
+https://numpy.org/doc/stable/reference/generated/numpy.percentile.html
+https://blog.waffles.space/2017/03/01/ascii-sketch/
+https://pillow.readthedocs.io/en/stable/reference/ImageOps.html
+and finally the workshops conducted by ACM IITR really helped me to write down the code of converting images into ascii arts.
