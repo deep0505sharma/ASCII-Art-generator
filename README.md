@@ -19,7 +19,26 @@ NOTE- there are two methods I have found to convert the image into sketch both o
 
 # Examples 
 [Input](deepak.jpg)
-[output](final_output.jpg)
+
+[Output](final_output.jpg)
+
+# Tech Stack / Dependencies
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+***Python*** : The complete project is written in python programming language.
+
+***OpenCV*** : OpenCV has been used for image pre-processing.
+
+***Numpy*** : To work with matrices.
+
+***Pillow*** : Python library for creating font object, making new images and editing them.
+
+***Visual Studio Code*** : Editor used in the project
 
 # Learnings from this project-
 I have learnt image processing basics, python , how to form ascii images and how can I convert my images into sketches. It was a great experience and I have really learnt something interesting due to this project. Thanks to the ACM IITR team for providing such a great opportunity.
