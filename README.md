@@ -18,9 +18,11 @@ Then I created a list of ascii characters which is placed in ascending order of 
 NOTE- there are two methods I have found to convert the image into sketch both of the methods have been uploaded in sketch.py file
 
 # Examples 
-[Input](deepak.jpg)
-
-[Output](final_output.jpg)
+------
+![Input](deepak.jpg)
+------
+![Output](final_output.jpg)
+------
 
 # Tech Stack / Dependencies
 
